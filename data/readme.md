@@ -1,4 +1,4 @@
-##Contribute to CMScan
+## Contribute to CMScan
 CMScan is an open source framework to detect vulnerable plugins installed in your web application(CMS) using simple port scanning technique (NMAP). Your contribution to the CMScan is highly appreciated.
 **Creating new CMS Entry**
 In order to create a new cms entry, a json file to be updated with the new CMS details. The details contain cms_name,cms_version_file_directory,cms_plugin_directory alogn with version_file_directory
