@@ -1,0 +1,8 @@
+[{
+  "cms_name": "wordpress",
+  "cms_version_file_directory": "",
+    "cms_extension_directory": [
+      "/wp-content/themes",
+      "/wp-content/plugins"
+    ]
+}]
