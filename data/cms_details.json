@@ -5,4 +5,15 @@
       "/wp-content/themes",
       "/wp-content/plugins"
     ]
-}]
+},
+{
+  "cms_name": "joomla",
+  "cms_version_file_directory": "/README.txt",
+    "cms_extension_directory": [
+      "/components",
+      "/modules"
+    ]
+}
+
+
+]
