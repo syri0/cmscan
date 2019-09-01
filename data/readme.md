@@ -1,4 +1,4 @@
-##Contribution
+## Contribution
 Everytime, new Content Management Systems can be added to the repository by adding the lists following the instructed conventions. There is a *cms_details.json* file which contains the details about the CMS in an array. In order to append a new CMS in the framework, the *cms_details.json* must be updated with the new CMS name, CMS version file directory and array of CMS extension file directory. 
 ```
 [{
