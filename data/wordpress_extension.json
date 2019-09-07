@@ -1,0 +1,5494 @@
+[
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wordpress-seo"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "jetpack"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "tinymce-advanced"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wpforms-lite"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "mailchimp-for-wp"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-smushit"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ninja-forms"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "nextgen-gallery"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ml-slider"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "shortcodes-ultimate"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "the-events-calendar"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "contact-widgets"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "smart-slider-3"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "amp"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "woo-gutenberg-products-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "themeisle-companion"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "photo-gallery"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "formidable"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "youtube-embed-plus"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "caldera-forms"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "foogallery"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ultimate-addons-for-gutenberg"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "envira-gallery-lite"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "popup-builder"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "yikes-inc-easy-mailchimp-extender"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "form-maker"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "leadin"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wd-instagram-feed"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "soliloquy-lite"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wordpress-popup"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "olympus-google-fonts"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "give"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "slider-wd"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "booking"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "calculated-fields-form"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wd-facebook-feed"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "robo-gallery"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "contact-form-maker"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "syntaxhighlighter"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "metronet-profile-picture"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "visualizer"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "kadence-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "final-tiles-grid-gallery-lite"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "event-tickets"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "feedzy-rss-feeds"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "coblocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "easy-pricing-tables"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-meta-seo"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ecwid-shopping-cart"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "event-calendar-wd"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "mp-timetable"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "contact-form-to-email"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "happyforms"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-recipe-maker"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "atomic-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "yet-another-stars-rating"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "forminator"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "restaurant-reservations"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-user-frontend"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "otter-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "better-click-to-tweet"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "timeline-express"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "google-analytics-opt-out"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "widget-countdown"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "stripe-payments"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "portfolio-wp"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "business-profile"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "advanced-gutenberg"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "site-reviews"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "page-views-count"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "photonic"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "cool-timeline"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "geodirectory"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "portfolio-filter-gallery"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "codepeople-post-map"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ecommerce-product-catalog"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "connections"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "food-and-drink-menu"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "complianz-gdpr"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "mailchimp-wp"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "youtube-video-player"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "drop-shadow-boxes"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "template-events-calendar"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "multisite-language-switcher"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "contact-forms-builder"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "luckywp-table-of-contents"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "all-in-one-video-gallery"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "browser-shots"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "block-gallery"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-email-capture"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "block-builder"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "easy-image-collage"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "appointment-hour-booking"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "userswp"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "json-content-importer"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-easycart"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "appointment-booking-calendar"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "zedity"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "gamipress"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "countdown-builder"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "new-social-media-widget"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "quiz-cat"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "audio-and-video-player"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "premium-blocks-for-gutenberg"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "powr-pack"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wd-youtube"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "embed-pdf-viewer"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "cp-contact-form-with-paypal"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "organic-profile-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "new-image-gallery"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "meow-gallery"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "block-lab"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "tag-groups"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "recipe-card-blocks-by-wpzoom"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ebay-feeds-for-wordpress"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "event-espresso-decaf"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "invoicing"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "slider-responsive-slideshow"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "motopress-hotel-booking-lite"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wpvr"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "advanced-gutenberg-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "mediavine-create"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ultimate-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "algori-pdf-viewer"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "slider-hero"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "polls-widget"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "liquid-speech-balloon"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "editor-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "cp-easy-form-builder"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ghostkit"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "map-block-gutenberg"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "visual-link-preview"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "music-player-for-woocommerce"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "blog-filter"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "design"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "caxton"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "custom-related-posts"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "getwid"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-smart-editor"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "media-slider"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "builder-template-categories"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "new-video-gallery"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "sponsors-carousel"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "new-album-gallery"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "qodeblock"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "setka-editor"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "qubely"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "abc-pricing-table"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "sirv"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "modal-popup-box"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "music-store"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "booking-calendar-contact-form"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "podcast-player"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "product-blocks-for-woocommerce"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "rsvpmaker"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "calendar-booking"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "360-image"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "shopconstruct"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "animated-live-wall"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "elegant-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "bigcommerce"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "highlighting-code-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "print-my-blog"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "grids"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-fusion-lite"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-instagram-feed-awplife"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-bootstrap-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "testimonial-maker"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "countdown-wpdevart-extended"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "emailoctopus"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "sell-downloads"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "event-monster"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "creative-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "helpie-faq"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "cp-polls"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "gosign-masonry-post-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "groundhogg"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "gamipress-link"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "animated-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "stag-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-payment-form"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "gutenbee"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-munich-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "360-video"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "carousel-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "simple-code-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "automatic-youtube-gallery"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "post-layouts"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "bokez-awesome-gutenberg-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "faq-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "otfm-gutenberg-spoiler"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "list-last-changes"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "animation-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "timeline-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "social-share-buttons-lite"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "katex"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "algori-image-video-slider"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "gutenslider"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "edd-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "kona-instagram-feed-for-gutenberg"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "faq-block-for-gutenberg"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "we-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "acf-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "flight-search-widget-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "gosign-background-container"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "essential-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "cosmic-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "newsletter-optin-box"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "metatrader-web-terminal"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "gosign-text-with-image-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "testimonials-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "gamipress-youtube-integration"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "magic-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "myticket-events"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "kioken-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wpseed-container-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "simple-cookie-control"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ws-form"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "illustrations"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-time-slots-booking-form"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "easy-post-embed-code"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "lsx-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "melonpan-block-container"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "blockbuddy"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "payment-form-for-paypal-pro"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "gamipress-vimeo-integration"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "blocks-by-weaver"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "sogrid"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "enhanced-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "syntax-highlighting-code-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-p5js-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "block-editor-for-manychat"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "secure-blocks-for-gutenberg"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "marcus-hiles-wistia-shortcodes"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "coming-soon-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "kenzap-timeline"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "elink-embed-content"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "blocks-kit"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "gosign-gallery-box-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "kenzap-steps"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-block-pack"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "gosign-simple-teaser-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "section-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "guten-bubble"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "image-slider-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "gosign-advanced-separator-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "kenzap-stats"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "rad-bootstrap-3-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "image-hover-effects-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "multipurpose-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "pricing-tables-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "kenzap-blog"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "mighty-pros-cons"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "gosign-accordion-slider-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "kenzap-features"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "fd-buttons-gutenberg"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "kenzap-pricing"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "gosign-posts-slider-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "abcsubmit"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "sbgd-wrapper-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "prohotpoints-gallery"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "listicles"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "rsvpmaker-for-toastmasters"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "animate-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "simple-shortcode-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "social-media-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "pinblocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "gosign-header-image-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "double-image"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "hot-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "advanced-bootstrap-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "advanced-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "kenzap-calendar"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "video-block-with-ads"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "average-travel-costs"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "foodie-nutrition-facts-label"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "video-playlist-lite"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "classy-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "gosign-google-maps-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "mathml-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ad-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "heading-block-font-color"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "advanced-posts-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "gutenipsum"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-essential-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "deligent-variable-block-width"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "new-posts-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "gecko-grid-layout"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "gosign-readmore-toggle-text-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "nelio-maps"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "gosign-promo-box-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "blocks-post-grid"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "easy-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "block-profile-card"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "gt-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wplyr-media-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "lyrics-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "dispensary-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "master-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ab-testing-for-wp"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "simple-alert-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "cart-products-for-woocommerce"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "info-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "lorem-ipsum-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "blocks-layouts"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "gosign-post-teaser-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "schedule-content-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "donation-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "block-context"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "power-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "startpage"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "recipe-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "simple-definition-list-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "otfm-countdown-to-new-year-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "china-video-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "blocksbuster"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "klarity-read-more-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "open-orphanage"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "nhsblocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "my-marginalia"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "lezwatchtv"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "web-recipe-clipper"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "donations-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "contentfry-social-media-displays"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "mobile-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "awesome-slider-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "honey-code"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-google-places-reviews"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "offers-overview-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "sv-twitch"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "code-editor-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "easy-blocks-pro"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "klarity-cases-overview-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "gosign-contact-person-box-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "advanced-archive-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "info-blocks-for-woocommerce"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "woolook"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "random-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "besan-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "one-page-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "honey-code"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-google-places-reviews"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "offers-overview-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "sv-twitch"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "code-editor-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "easy-blocks-pro"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "klarity-cases-overview-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "gosign-contact-person-box-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "advanced-archive-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "info-blocks-for-woocommerce"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "woolook"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "random-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "besan-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "one-page-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "woo-product-slider-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "acepress-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ff-block-advanced-columns"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "sellpress"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "klarity-latest-posts-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "curatewp-nested-posts"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "get-subpages-list"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "news-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "progress-bar-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "payments-block-stripe"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "details-summary-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "accordion-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "klarity-progress-bar-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "conditional-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "faq-accordion-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "gitblock"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "builder-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "klarity-question-answer-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "posts-list-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "card-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "embedery-integrate"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "team-members-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "tumbili-mailchimp-feed-for-gutenberg"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "th23-social"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wplp-code-snippet"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "yasothon-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "klarity-action-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "gosign-vimeo-video-player-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "hebo-logo-slider-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "awesome-alert-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "melonpan-block-code"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "advance-block-extend"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ace-html-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "boxer-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "clocks-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ads-in-content"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "gosign-notification-and-alert-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "questionpro-surveys"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "gecko-section"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "block-a-saurus"
+    },
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "contact-form-7"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "akismet"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "classic-editor"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "jetpack"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "woocommerce"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wordpress-importer"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "really-simple-ssl"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wordfence"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "duplicate-post"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "elementor"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "tinymce-advanced"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "all-in-one-seo-pack"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "google-sitemap-generator"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wpforms-lite"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "google-analytics-for-wordpress"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "all-in-one-wp-migration"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "updraftplus"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-super-cache"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "google-analytics-dashboard-for-wp"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "mailchimp-for-wp"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "regenerate-thumbnails"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "advanced-custom-fields"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-smushit"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "limit-login-attempts"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "redirection"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "duplicator"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-mail-smtp"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "w3-total-cache"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "siteorigin-panels"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ninja-forms"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "disable-comments"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "so-widgets-bundle"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "cookie-notice"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "autoptimize"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "limit-login-attempts-reloaded"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-fastest-cache"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "duplicate-page"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-multibyte-patch"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "coming-soon"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "loco-translate"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "better-wp-security"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "optinmonster"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "hello-dolly"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "nextgen-gallery"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "instagram-feed"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "loginizer"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "worker"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "really-simple-captcha"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ml-slider"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "redux-framework"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-optimize"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "woocommerce-gateway-paypal-express-checkout"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "shortcodes-ultimate"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "insert-headers-and-footers"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "breadcrumb-navxt"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-pagenavi"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "all-in-one-wp-security-and-firewall"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "tablepress"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "better-search-replace"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "the-events-calendar"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "one-click-demo-import"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "black-studio-tinymce-widget"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ewww-image-optimizer"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "woocommerce-services"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "litespeed-cache"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "custom-post-type-ui"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "broken-link-checker"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "yith-woocommerce-wishlist"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-maintenance-mode"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "backwpup"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "sg-cachepress"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "force-regenerate-thumbnails"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "mailchimp-for-woocommerce"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "sucuri-scanner"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "cookie-law-info"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "contact-widgets"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "user-role-editor"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "woocommerce-gateway-stripe"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "post-types-order"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "add-to-any"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-statistics"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "flamingo"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "beaver-builder-lite-version"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "polylang"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "smart-slider-3"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wps-hide-login"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "woocommerce-admin"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "antispam-bee"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ocean-extra"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "googleanalytics"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-google-maps"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "meta-box"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-file-manager"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "maintenance"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "taxonomy-terms-order"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "easy-wp-smtp"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "amp"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "disable-gutenberg"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "popup-maker"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "woo-gutenberg-products-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "enable-media-replace"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "velvet-blues-update-urls"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "facebook-for-woocommerce"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "iwp-client"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "woosidebars"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "under-construction-page"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "themeisle-companion"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "easy-google-fonts"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "image-widget"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "photo-gallery"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "widget-importer-exporter"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-user-avatar"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "mainwp-child"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ssl-insecure-content-fixer"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "simple-301-redirects"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "table-of-contents-plus"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "kirki"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "newsletter"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "easy-fancybox"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "bbpress"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "simple-custom-css"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-migrate-db"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "megamenu"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wordpress-popular-posts"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ga-google-analytics"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "intuitive-custom-post-order"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "responsive-lightbox"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "admin-menu-editor"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "imsanity"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "svg-support"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "widget-logic"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "cmb2"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "formidable"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "simple-page-ordering"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "essential-addons-for-elementor-lite"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "contact-form-7-honeypot"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "child-theme-configurator"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "page-links-to"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "so-css"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "duracelltomi-google-tag-manager"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ps-auto-sitemap"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "adminimize"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ultimate-social-media-icons"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "custom-sidebars"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "yith-woocommerce-compare"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-db-backup"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "stops-core-theme-and-plugin-updates"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "uk-cookie-consent"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wysija-newsletters"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "backupwordpress"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "pretty-link"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "siteguard"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "simple-social-icons"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "official-facebook-pixel"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "imagify"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "contact-form-cfdb7"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "pirate-forms"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ad-inserter"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "gutenberg"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "astra-sites"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "pdf-embedder"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "gotmls"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "youtube-embed-plus"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "custom-css-js"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-clone-by-wp-academy"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "addquicktag"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "custom-facebook-feed"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "quick-pagepost-redirect-plugin"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "google-captcha"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "anti-spam"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-sitemap-page"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "buddypress"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "cloudflare"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "php-code-widget"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "google-analyticator"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "header-footer"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "simple-custom-post-order"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "caldera-forms"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "unyson"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "tiny-compress-images"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "simple-lightbox"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "search-and-replace"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-postviews"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "yet-another-related-posts-plugin"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "nextend-facebook-connect"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "password-protected"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "recent-posts-widget-extended"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "pubsubhubbub"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "tawkto-live-chat"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "search-regex"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "menu-icons"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "woocommerce-pdf-invoices-packing-slips"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "genesis-simple-edits"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "cyr3lat"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "login-lockdown"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "use-any-font"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wptouch"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "recent-posts-widget-with-thumbnails"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "foogallery"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "members"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "a3-lazy-load"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "shortpixel-image-optimiser"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "disqus-comment-system"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "addthis"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "post-duplicator"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "call-now-button"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-retina-2x"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "code-snippets"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "free-sales-funnel-squeeze-pages-landing-page-builder-templates-make"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "recent-tweets-widget"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "custom-add-to-cart-button-for-woocommerce"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "bc-menu-cart-woo"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "free-product-table-for-woocommerce"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "woo-slider-pro-drag-drop-slider-builder-for-woocommerce"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "themegrill-demo-importer"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "favicon-by-realfavicongenerator"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "all-in-one-favicon"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "premium-addons-for-elementor"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-slimstat"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "header-footer-elementor"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "easy-theme-and-plugin-upgrades"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "gtranslate"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "accelerated-mobile-pages"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "php-compatibility-checker"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "safe-svg"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ultimate-addons-for-gutenberg"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "sydney-toolbox"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-gdpr-compliance"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-reset"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "customizer-export-import"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "q2w3-fixed-widget"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "woo-checkout-field-editor-pro"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "rustolat"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "better-font-awesome"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "envira-gallery-lite"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "email-subscribers"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "godaddy-email-marketing-sign-up-forms"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "social-networks-auto-poster-facebook-twitter-g"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-edit"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "popup-builder"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "foobox-image-lightbox"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "master-slider"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wpcf7-redirect"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "column-shortcodes"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "enhanced-media-library"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "simple-share-buttons-adder"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "theme-my-login"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "no-category-base-wpml"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "404-to-301"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "qtranslate-x"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "cloudflare-flexible-ssl"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ultimate-member"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "health-check"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "eu-cookie-law"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "title-remover"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "acf-content-analysis-for-yoast-seo"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "contact-form-7-datepicker"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "count-per-day"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "contact-form-plugin"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "https-redirection"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "content-views-query-and-display-post-page"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "custom-permalinks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "rename-wp-login"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "all-in-one-event-calendar"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-cerber"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "email-address-encoder"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "facebook-pagelike-widget"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-dbmanager"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "maxbuttons"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "white-label-cms"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "glue-for-yoast-seo-amp"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "statify"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "relevanssi"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "post-smtp"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "cornerstone"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "official-statcounter-plugin-for-wordpress"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "auto-terms-of-service-and-privacy-policy"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "custom-post-type-permalinks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "events-manager"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "disable-xml-rpc"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "display-posts-shortcode"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "iframe"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-add-custom-css"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "click-to-chat-for-whatsapp"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "google-language-translator"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "mailpoet"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "exclude-pages"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "responsive-menu"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-jalali"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "list-category-posts"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "aryo-activity-log"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "easy-facebook-likebox"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "seo-ultimate"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "user-switching"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "contact-form-7-mailchimp-extension"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "advanced-ads"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "page-scroll-to-id"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "mesmerize-companion"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "rvg-optimize-database"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "api-key-for-google-maps"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "edit-author-slug"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "auto-post-thumbnail"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "pixelyoursite"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "social-media-widget"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "download-manager"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "widget-css-classes"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "everest-forms"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "header-and-footer-scripts"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-job-manager"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "post-type-switcher"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-content-copy-protector"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "mce-table-buttons"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "yikes-inc-easy-mailchimp-extender"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "xml-sitemap-feed"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "onesignal-free-web-push-notifications"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-all-import"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "tracking-code-manager"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "genesis-enews-extended"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "option-tree"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "sendgrid-email-delivery-simplified"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "mw-wp-form"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "seo-image"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-polls"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wordpress-ping-optimizer"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "block-bad-queries"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "quick-adsense"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "simple-image-sizes"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "download-monitor"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "contact-form-7-dynamic-text-extension"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "envato-elements"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "easy-table-of-contents"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "underconstruction"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "add-from-server"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "portfolio-post-type"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-crontrol"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "mailchimp"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "nav-menu-roles"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "sumome"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "woocommerce-multilingual"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "hide-title"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "advanced-access-manager"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "codepress-admin-columns"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wpfront-scroll-top"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-google-fonts"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wordpress-23-related-posts-plugin"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "yith-woocommerce-quick-view"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-google-map-plugin"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "instagram-slider-widget"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "cf7-conditional-fields"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-rollback"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "form-maker"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "fancybox-for-wordpress"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "post-views-counter"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "cyr2lat"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "404page"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "heartbeat-control"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "yith-woocommerce-ajax-navigation"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "autodescription"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "simple-history"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "woocommerce-google-analytics-integration"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "blogger-importer"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wordpress-https"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "real-time-find-and-replace"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "google-maps-widget"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "all-in-one-schemaorg-rich-snippets"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-social-bookmarking-light"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "advanced-excerpt"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "simple-tags"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "kingcomposer"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-postratings"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "oauth-twitter-feed-for-developers"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-editor"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "peters-login-redirect"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "bj-lazy-load"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "remove-query-strings-from-static-resources"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-security-audit-log"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "social-icons-widget-by-wpzoom"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "invisible-recaptcha"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "kk-star-ratings"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "resmushit-image-optimizer"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "revision-control"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "insert-php"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "visual-form-builder"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "codelights-shortcodes-and-widgets"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "sassy-social-share"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "p3-profiler"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-lightbox-2"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "cleantalk-spam-protect"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "pagelayer"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "widget-options"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "disable-google-fonts"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "category-posts"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "yith-woocommerce-zoom-magnifier"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "leadin"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "strong-testimonials"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "sticky-menu-or-anything-on-scroll"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "menu-image"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "post-expirator"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "dynamic-featured-image"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "slideshow-jquery-image-gallery"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "amr-shortcode-any-widget"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "virtue-toolkit"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wonderm00ns-simple-facebook-open-graph-tags"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "widget-shortcode"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "google-calendar-events"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "simple-css"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "lazy-load"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "async-javascript"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-sweep"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "woocommerce-square"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "cms-tree-page-view"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "mappress-google-maps-for-wordpress"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "yith-woocommerce-ajax-search"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ajax-thumbnail-rebuild"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wpcf7-recaptcha"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "login-customizer"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-simple-firewall"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wd-instagram-feed"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-meta-and-date-remover"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "vaultpress"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "advanced-nocaptcha-recaptcha"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "fast-velocity-minify"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "social-media-feather"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "feed-them-social"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "paid-memberships-pro"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "query-monitor"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "seo-by-rank-math"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "categories-images"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "show-current-template"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "soliloquy-lite"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "clearfy"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "capability-manager-enhanced"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "quick-adsense-reloaded"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "yikes-inc-easy-custom-woocommerce-product-tabs"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ithemes-sync"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "cryout-theme-settings"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "custom-field-template"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "theme-check"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "simple-sitemap"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "gdpr-cookie-compliance"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "mailgun"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "asesor-cookies-para-la-ley-en-espana"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "disable-xml-rpc-pingback"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "video-thumbnails"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wordpress-popup"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "pods"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wpcat2tag-importer"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "elementor-addon-widgets"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-mail-logging"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "woocommerce-products-filter"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "loginpress"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "slide-anything"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-members"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "simple-local-avatars"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "snazzy-maps"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "olympus-google-fonts"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wordpress-database-reset"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "website-monetization-by-magenet"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "minimal-coming-soon-maintenance-mode"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "disable-emojis"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "reveal-ids-for-wp-admin-25"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "automatic-updater"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "rocket-lazy-load"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "addon-elements-for-elementor-page-builder"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "navmenu-addon-for-elementor"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "zopim-live-chat"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-force-ssl"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "shareaholic"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-seo-tdk"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "social-pug"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "mashsharer"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-jquery-lightbox"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "genesis-simple-hooks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "cache-enabler"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "jquery-collapse-o-matic"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "google-document-embedder"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "page-or-post-clone"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "astra-widgets"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "backup"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "cosy-address-book"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "addons-for-elementor"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-video-lightbox"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "really-simple-csv-importer"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "breeze"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "re-add-underline-justify"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "hummingbird-performance"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wordpress-social-login"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "search-everything"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "widget-context"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "pushpress"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "easy-twitter-feed-widget"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "google-sitemap-plugin"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-responsive-menu"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "font-awesome"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "header-footer-code-manager"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "login-recaptcha"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "advanced-custom-fields-font-awesome"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "gallery-by-supsystic"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "nginx-helper"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-seopress"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "spacer"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-smtp"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "creame-whatsapp-me"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "contextual-related-posts"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "resize-image-after-upload"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "bulletproof-security"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "woocommerce-menu-bar-cart"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "popups"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "options-framework"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-tab-widget"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-review"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "mega-addons-for-visual-composer"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "link-manager"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "give"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "schema"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "antivirus"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-database-backup"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "comet-cache"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-piwik"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "enhanced-text-widget"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "easy-columns"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "admin-custom-login"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "optimus"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "contact-form-7-simple-recaptcha"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "woo-order-export-lite"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "testimonials-by-woothemes"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "remove-category-url"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-all-export"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "mystickymenu"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "smk-sidebar-generator"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "check-email"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "slider-wd"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-featherlight"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "string-locator"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "custom-twitter-feeds"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-nested-pages"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "woo-variation-swatches"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "xserver-typesquare-webfonts"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "learnpress"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "shapely-companion"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "powerpress"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "woocommerce-gateway-paypal-powered-by-braintree"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "social-warfare"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "cmp-coming-soon-maintenance"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "eps-301-redirects"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "meta-tag-manager"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "embed-any-document"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ultimate-tinymce"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "custom-login"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "genesis-responsive-slider"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "advanced-responsive-video-embedder"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ultimate-social-media-plus"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "post-grid"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-store-locator"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "varnish-http-purge"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "sakura-rs-wp-ssl"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "login-logo"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "font-awesome-4-menus"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wpfront-user-role-editor"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "modula-best-grid-gallery"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-page-widget"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "custom-fonts"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-customer-reviews"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "easy-digital-downloads"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-rss-aggregator"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "go-live-update-urls"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "woocommerce-jetpack"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "dynamic-widgets"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "super-socializer"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wpdiscuz"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "contact-form-submissions"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "famethemes-demo-importer"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "if-menu"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "mobile-menu"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "widgets-on-pages"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "use-google-libraries"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ocean-social-sharing"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "login-with-ajax"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "upload-max-file-size"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "public-post-preview"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "whatshelp-chat-button"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "companion-auto-update"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "subscribe-to-comments"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "booking"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "image-watermark"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "advanced-iframe"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "mollie-payments-for-woocommerce"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "themify-portfolio-post"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "persian-woocommerce"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "testimonial-rotator"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "contact-form-7-add-confirm"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "woocommerce-checkout-manager"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "vk-all-in-one-expansion-unit"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "media-library-assistant"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "tac"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "disable-json-api"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "nofollow"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "simple-image-widget"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "what-the-file"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "amazon-associates-link-builder"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "tidio-live-chat"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "shortcoder"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "movabletype-importer"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "shariff"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "contact-form-7-style"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "bwp-google-xml-sitemaps"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "better-delete-revision"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "related-posts-for-wp"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "pinterest-pin-it-button-on-image-hover-and-post"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "sitemap"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "pc-robotstxt"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "advanced-cf7-db"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "fb-instant-articles"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "regenerate-thumbnails-advanced"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-whatsapp-chat"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "bwp-minify"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-paginate"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-performance-score-booster"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "profile-builder"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "timthumb-vulnerability-scanner"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-shortcode"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "easy-smooth-scroll-links"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-downgrade"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "printfriendly"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "display-php-version"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "brizy"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "svg-vector-icon-plugin"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "variation-swatches-for-woocommerce"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "stop-spammer-registrations-plugin"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "multiple-post-thumbnails"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "robin-image-optimizer"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "404-to-start"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-mail-bank"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-live-chat-support"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "subscribe2"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "hide-featured-image"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "easy-social-icons"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "duplicate-menu"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "storefront-product-sharing"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "storefront-product-sharing"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ads-txt"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-total-hacks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "smartcrawl-seo"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "adrotate"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "woocommerce-pagseguro"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "mailchimp-forms-by-mailmunch"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wpide"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "featured-image-from-url"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "rss-importer"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "advanced-database-cleaner"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "bulk-delete"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "cf7-widget-elementor"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-hide-security-enhancer"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "translatepress-multilingual"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "lockdown-wp-admin"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "file-manager"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "constant-contact-forms"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "lightweight-social-icons"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "advanced-wp-reset"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "woocommerce-customizer"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-to-twitter"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-security-scan"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "safe-redirect-manager"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "facebook-conversion-pixel"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "accesspress-social-icons"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "lj-maintenance-mode"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "html-on-pages"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-admin-ui-customize"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "easing-slider"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-robots-txt"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "xcloner-backup-and-restore"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "woocommerce-germanized"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "accesspress-social-share"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "jquery-colorbox"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "google-maps-easy"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "tweet-old-post"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-analytify"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ajax-load-more"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "redis-cache"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-logo-showcase-responsive-slider-slider"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "seo-redirection"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "paypal-donations"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "page-list"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "forget-about-shortcode-buttons"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-htaccess-editor"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ultimate-category-excluder"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "calculated-fields-form"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "insta-gallery"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "animate-it"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "one-page-express-companion"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-product-review"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "yith-woocommerce-catalog-mode"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "widgets-for-siteorigin"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "custom-field-suite"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "cherry-sidebars"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "seo-automatic-links"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ps-disable-auto-formatting"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "to-top"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "simple-page-sidebars"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "intelly-related-posts"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "meteor-slides"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-updates-notifier"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "bootstrap-3-shortcodes"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "qqworld-auto-save-images"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wc-shortcodes"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "woocommerce-currency-switcher"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "intergeo-maps"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "post-thumbnail-editor"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "captcha-code-authentication"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "my-custom-functions"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wpremote"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "cookies-for-comments"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "content-aware-sidebars"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-parsidate"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-hide-post"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "widget-settings-importexport"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "crayon-syntax-highlighter"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wd-facebook-feed"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "testimonials-widget"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "woocommerce-extra-checkout-fields-for-brazil"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "simple-author-box"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "woocommerce-table-rate-shipping"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ajax-search-lite"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "blogvault-real-time-backup"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ssh-sftp-updater-support"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "html-editor-syntax-highlighter"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "robo-gallery"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "open-external-links-in-a-new-window"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-external-links"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-seo-structured-data-schema"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "twitter"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "responsive-add-ons"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "pixel-caffeine"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "simple-facebook-plugin"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-staging"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "pixabay-images"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "product-import-export-for-woo"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "lightbox-gallery"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "woocommerce-correios"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "fv-wordpress-flowplayer"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "remove-dashboard-access-for-non-admins"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ditty-news-ticker"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "insert-php-code-snippet"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ultimate-responsive-image-slider"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "contact-form-maker"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-force-https"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "oh-add-script-header-footer"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ag-custom-admin"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "amazon-s3-and-cloudfront"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "auxin-elements"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "syntaxhighlighter"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-central"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ocean-demo-import"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ip-geo-block"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "team-members"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "easy-video-player"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "compact-wp-audio-player"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "icegram"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "metronet-profile-picture"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-fail2ban"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "shapepress-dsgvo"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "anywhere-elementor"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "rest-api"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "no-page-comment"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "gallery-plugin"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-limit-login-attempts"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "genesis-simple-share"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "revechat"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ti-woocommerce-wishlist"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "event-organiser"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "kraken-image-optimizer"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "carousel-slider"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "meks-smart-social-widget"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "uber-login-logo"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "gwolle-gb"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "remove-google-fonts-references"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "hide-admin-bar"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "iubenda-cookie-law-solution"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "simple-social-buttons"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "spicebox"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "post-plugin-library"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "smtp-mailer"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "visitors-traffic-real-time-statistics"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "genesis-simple-sidebars"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "bootstrap-for-contact-form-7"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "coming-soon-maintenance-mode-from-acurax"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "woocommerce-shipstation-integration"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-translitera"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "mailin"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "post-tags-and-categories-for-pages"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "webp-express"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "jquery-updater"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "a2-optimized-wp"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "contact-form-builder"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "akismet-privacy-policies"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "woocommerce-shortcodes"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "facebook-by-weblizar"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "conditional-menus"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "editorial-calendar"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "blog2social"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "user-access-manager"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "widget-google-reviews"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "easy-testimonials"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "accesspress-social-counter"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "posts-in-page"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "media-file-renamer"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "simple-map"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "related-posts-thumbnails"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "xml-sitemaps-for-videos"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-show-posts"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "duplicate-wp-page-post"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "colorlib-login-customizer"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "shortcode-in-menus"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "woocommerce-delivery-notes"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "gdpr"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "simple-membership"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-math-captcha"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "stream"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-asset-clean-up"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "visualizer"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "live-composer-page-builder"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "nivo-slider-lite"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "no-self-ping"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "multi-device-switcher"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "flash-toolkit"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "stop-user-enumeration"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "exploit-scanner"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "pricing-table-by-supsystic"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "contact-form-7-success-page-redirects"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "timber-library"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "advanced-wp-columns"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "protect-wp-admin"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "sidebar-login"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "gmap-embed"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "disable-feeds"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "easy-watermark"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "secure-wordpress"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "post-snippets"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "kadence-blocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "spiderblocker"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "nimble-builder"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "tabby-responsive-tabs"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "yandex-metrika"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "final-tiles-grid-gallery-lite"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wordpress-simple-paypal-shopping-cart"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "instant-images"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "homepage-control"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ultimate-faqs"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "livemesh-siteorigin-widgets"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "erident-custom-login-and-dashboard"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "cookiebot"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "link-juice-keeper"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "meks-flexible-shortcodes"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "insert-pages"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "event-tickets"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wpfront-notification-bar"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "speed-booster-pack"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "404-redirection"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "raw-html"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "html-sitemap"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "scripts-n-styles"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "amazon-web-services"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-less"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-subscribe"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "sticky-header-effects-for-elementor"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "activecampaign-subscription-forms"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "facebook-messenger-customer-chat"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "iq-block-country"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "italy-cookie-choices"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "search-filter"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "jquery-smooth-scroll"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ninja-tables"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "data-tables-generator-by-supsystic"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "custom-post-template"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "awesome-weather"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "get-the-image"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "search-exclude"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "meks-smart-author-widget"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "modal-for-elementor"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "simple-wp-sitemap"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "woocommerce-advanced-free-shipping"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "social-icons"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "scroll-back-to-top"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "jquery-pin-it-button-for-images"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "hide-page-and-post-title"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-copyprotect"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "learnpress-course-review"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ajax-search-for-woocommerce"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "fullwidth-templates"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "woocommerce-grid-list-toggle"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-seo-qtranslate-x"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "leaflet-maps-marker"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "feedzy-rss-feeds"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "smart-youtube"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "floating-social-media-icon"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "debug-bar"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ckeditor-for-wordpress"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "coblocks"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "similar-posts"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "facebook-auto-publish"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "re-add-text-justify-button"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "elementor-templater"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "jivochat"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "server-ip-memory-usage"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "tinymce-templates"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-content-copy-protection"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-post-page-clone"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "favicon-rotator"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "facebook-page-feed-graph-api"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "insert-html-snippet"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "top-10"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "catch-ids"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "www-xml-sitemap-generator-org"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "advanced-woo-search"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "disable-admin-notices"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "custom-post-widget"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "saphali-woocommerce-lite"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "quick-featured-images"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "custom-icons-for-elementor"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "co-authors-plus"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "meks-easy-ads-widget"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "acme-demo-setup"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "import-users-from-csv-with-meta"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "typekit-fonts-for-wordpress"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "baw-login-logout-menu"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-table-reloaded"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "gravity-forms-pdf-extended"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "genesis-connect-woocommerce"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "enhanced-e-commerce-for-woocommerce-store"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "affilinet-performance-module"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "flexible-shipping"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "miniorange-login-openid"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "featured-video-plus"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "whats-new-genarator"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "google-authenticator"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ninjafirewall"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "shortcode-widget"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "genesis-title-toggle"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "woocommerce-xml-csv-product-import"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-disable"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "hyper-cache"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "remove-yoast-seo-comments"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "easy-pricing-tables"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "orbisius-child-theme-creator"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "nk-google-analytics"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "easy-bootstrap-shortcodes"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "optimole-wp"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "configure-smtp"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "google-pagespeed-insights"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "email-encoder-bundle"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "ultimate-form-builder-lite"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "comments-from-facebook"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "newstatpress"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "my-calendar"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-meta-seo"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "popup-by-supsystic"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "feedwordpress"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-maintenance"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "accordions"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "weight-based-shipping-for-woocommerce"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "video-embed-thumbnail-generator"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "tiled-gallery-carousel-without-jetpack"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "printful-shipping-for-woocommerce"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "theme-editor"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-author-date-and-meta-remover"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-scss"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "jquery-vertical-accordion-menu"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "delete-all-comments-easily"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "shortcode-ui"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "acf-qtranslate"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "igniteup"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "search-meter"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "yandex-metrica"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wysiwyg-widgets"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "head-footer-code"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "wp-media-library-categories"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "hide-my-site"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "classic-editor-addon"
+    }, 
+    {
+        "directory": "\\wp-content\\plugins\\{ext}\\readme.txt", 
+        "extension": "templatesnext-toolkit"
+    }
+]
